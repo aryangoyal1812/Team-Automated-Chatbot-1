@@ -1,0 +1,188 @@
+{"intents": [{
+		"tag": "programming language",
+		"patterns": [
+			"Which language is more prefered C++ or java or python?",
+			"which programming language to start with",
+			"is C++/java/python the best to start as a beginner"
+		],
+		"responses": [
+			"You can start with either python or cpp. Python is taught in first semester from basics but simultaneously keep doing c++ also yourself. cpp is best for competitive coding and also required for some computer science core courses in 3rd sem. Its basic will not be taught by college."
+		]
+	},{
+		"tag": "ubuntu",
+		"patterns": [
+			"how to install linux",
+			"how to dual boot ubuntu or linux",
+			"how to use windows and linux",
+			"why to use linux"
+		],
+		"responses": [
+			"Linux is the preferred OS among programmers due to its speed, security, and availability of a wide range of customizations. It is open-source and there are tons of resources for almost anything you want to do.\nThere are 3 ways to get it on your windows machine each having its set of advantages and disadvantages\n1. Dual boot:- http://blog.pc.iitmandi.co.in/Dual-Boot/\n2. WSL 2:- https://docs.microsoft.com/en-us/windows/wsl/install-win10#manual-installation-steps\n3. Virtual box:- https://itsfoss.com/install-linux-in-virtualbox/\nSome other resources\nLink1 - https://towardsdatascience.com/dual-boot-is-dead-windows-and-linux-are-now-one-27555902a128\nLink2 - https://www.reddit.com/r/bashonubuntuonwindows/comments/gqkmet/wsl_1_vs_wsl_2_vs_vm_vs_dual_boot/"
+		]
+	},{
+		"tag": "python",
+		"patterns": [
+			"how can i learn python",
+			"how can i begin python",
+			"how to use python",
+			"how to start with python"
+		],
+		"responses": [
+			"For python install anaconda as it provides all libraries and packages which will be useful in data science\nhttps://www.datacamp.com/community/tutorials/installing-anaconda-windows\n\nsome video tutorials to learn basics quickly. \nA suggestion: https://youtu.be/rfscVS0vtbw"
+		]
+	},{
+		"tag": "gsoc",
+		"patterns": [
+			"what is gsoc",
+			"how can i participate in gsoc",
+			"google summer of code"
+		],
+		"responses": [
+			"Google Summer Of Code or GSoC is an annual program run by Google where you get to work on many open source projects during your summer vacations and also earn a stipend."
+		]
+	},{
+		"tag": "computer labs",
+		"patterns": [
+			"How many computer labs do we have ?",
+			"Do we have computer labs for programming ?",
+			"Can a non CSE student use proramming labs?",
+			"What are the facilities the programming labs equipped with?"
+		],
+		"responses": [
+			"Info about labs is given in the link https://www.iitmandi.ac.in/Schools/SE/labs.php"
+		]
+	},{
+		"tag": "programming clubs",
+		"patterns": [
+			"Whar are the prerequisites to join programming club?",
+			"events of programming club?",
+			"what is the benefit to join pc",
+			"what does pc do",
+			"should i know programming to join programming club"
+		],
+		"responses": [
+			"Programming Club, aka KamandPrompt is a group of clubs where students can acquire knowledge and gain experience in the field of Competitive Programming, Machine Learning, Artificial Intelligence and Development. for more info https://wiki.iitmandi.co.in/p/Programming_Club"
+		]
+	},{
+		"tag": "CSE lab",
+		"patterns": [
+			"Are there high tech labs available for programming?",
+			"is IIT mandi equipped with proper programming labs "
+		],
+		"responses": [
+			"Yes, we have high tech well equipped labs for programming.You will enjoy high internet speed in those labs as well."
+		]
+	},{
+		"tag": "laptop",
+		"patterns": [
+			"Which laptop should I buy ?",
+			"Do i need my personal laptop?",
+			"When can i use computer labs?",
+			"Do i need to have a personal laptop?",
+			"Can i use computers in lab for personal purpose?"
+		],
+		"responses": [
+			"Go through this document made by our seniors \n http://tiny.cc/kqqkaz"
+		]
+	},{
+		"tag": "coding",
+		"patterns": [
+			"how is coding culture of IIT Mandi",
+			"How many Gsoc selection do we have",
+			"how is open source at IIT Mandi"
+		],
+		"responses": [
+			"GSoC selections for 2020:\nIndore : 3 students\nRopar : 2 students\nPatna : 6 students\nHyderabad : 1 student\nBhubaneshwar : 1 student\nGandhinagar : Noone from their college knows (I think 0)\nMandi : 9 students + 6 mentors\n\nWe have good amount of experts, candidate masters and even a master now on codeforces and many 4*+ rated at codechef.\n\nOpen source culture is better at our college. as shown by GSoC selections. Apart from the GSoC selections, many were also selected in Linux community bridge, which is an equally prestigious program.\n\nData sources for IIT Mandi.  \nhttps://pc.iitmandi.co.in/icpc/hof.html\nhttps://pc.iitmandi.co.in/gsoc/"
+		]
+	},{
+		"tag": "c++",
+		"patterns": [
+			"how to install c++",
+			"how to use c++"
+		],
+		"responses": [
+			"Please refer this video about basic installation and compiling code in VS code\nhttps://youtu.be/0yn7irrHzM8"
+		]
+	},{
+		"tag": "vscode",
+		"patterns": [
+			"how to install VS code",
+			"how to use VSCode",
+			"how to use Visual studio Code"
+		],
+		"responses": [
+			"You can use VS code for any language:\nFOR C++: https://youtu.be/0yn7irrHzM8\nFOR Java: https://code.visualstudio.com/docs/java/java-tutorial"
+		]
+	},{
+		"tag": "uri",
+		"patterns": [
+			"what is uri",
+			"how to start",
+			"what is URI Online Judge"
+		],
+		"responses": [
+			"Everyone should have a basic idea of programming from today's session so it's time to show your strength and start practicing on URI online Judge  (www.urionlinejudge.com.br), start with beginner-level questions, and then level up"
+		]
+	},{
+		"tag": "compilation",
+		"patterns": [
+			"what is compilation error",
+			"compilation error"
+		],
+		"responses": [
+			"To solve compilation error run the code in terminal or VS code and search for error and try to fix it"
+		]
+	},{
+		"tag": "runntime",
+		"patterns": [
+			"what is run time error",
+			"how to solve runtime error",
+			"why i am getting runtime error"
+		],
+		"responses": [
+			"Some error which could not be detected during compilation like division be zero for some case or array out of bound"
+		]
+	},{
+		"tag": "presentation",
+		"patterns": [
+			"what is presentation error",
+			"how to solve presentation error",
+			"why i am getting presentation error"
+		],
+		"responses": [
+			"Presentation error is due to extra spaces/no spaces, extra new lines/no new lines"
+		]
+	},{
+		"tag": "cp",
+		"patterns": [
+			"what is competitive coding",
+			"how to start with competitive coding",
+			"how to begin with cp",
+			"what is cp"
+		],
+		"responses": [
+			"Programming is fun, programming is an exercise for your brain, programming is a mental sport and when this sport is held over the internet involving sport programmer as a contestant then it is called Competitive Programming. follow this link and you will soon with your hardwork become a competitive coder https://docs.google.com/document/d/1czqj3F116XgtcZx4sDjIA7cKYy5mu7zMCXGhL0UKweU/edit"
+		]
+	},{
+		"tag": "dev",
+		"patterns": [
+			"what is web development",
+			"how to start with development",
+			"resources for web development"
+		],
+		"responses": [
+			"Android/Mobile Application Dev - You can follow courses on udacity which are quite good to learn. Try to make your own app. You can choose to begin with any fluuter/kotlin/Java. Web dev http://blog.pc.iitmandi.co.in/web-development-for-freshers/"
+		]
+	},{
+		"tag": "cyber",
+		"patterns": [
+			"how to begin with cyber security",
+			"what is cyber security",
+			"how to get involved with infosec"
+		],
+		"responses": [
+			"CTF are a good way to start with cyber security. We don't have any specific cyber security club. Follow this link https://medium.com/@_ax/how-to-start-a-career-in-cybersecurity-and-how-to-become-an-expert-5f8f8e7ce42a"
+		]
+	}
+]
+}

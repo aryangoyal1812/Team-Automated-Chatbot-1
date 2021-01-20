@@ -1,0 +1,1322 @@
+{"intents": [{
+		"tag": "CSE Courses",
+		"patterns": [
+			"What are various courses in cse computer science?",
+			"What are core courses of Cse computer science?",
+			"What are discipline elective courses in cse computer science?",
+			"Do we study artificial intelligence in cse computer science itself?",
+			"are there any machine learning courses in cse computer science"
+		],
+		"responses": [
+			"Cse or Computer Science Engineering is the study of computers and technology. For detailed information of Cse refer to the link provided https://drive.google.com/file/d/1RpuqDYDFmcSq9RwnceqEvH9LvmJfNLW3/view?usp=sharing"
+		]
+	},{
+		"tag": "CSE future scope",
+		"patterns": [
+			"If I do minors in cse , can i go for masters in Cse computer science?",
+			"What are govt. job opportunities for cse computer science students?",
+			"other than job what are the other options in cse"
+		],
+		"responses": [
+			"Yes,you definitely can go for masters in a subject you have opted minors.A cse student go for software development.There are many opportunities like background programming, app designing, web designing.Comapnies like google and microsoft provide great opportunities and there is a vast area to learn.Learning never stops. As far government jobs are concerned there are several departments where software engineers are employed like DRDO, ECIL,BPCL and many more. So it has a great scope."
+		]
+	},{
+		"tag": "CSE placement",
+		"patterns": [
+			"what is an average package for cse computer science student?",
+			"What are the companies that visit for cse computer science student placement and internship?",
+			"What is on campus placement rate for Cse computer science student?",
+			"will i get placed  after 4 years from cse",
+			"what are the placement statistics of computer science cse"
+		],
+		"responses": [
+			"The average package is about 12 to 14 lakh per annum for  a CSE student.THe oncampus placement rate is about 85 to 90 percent.Some of the renowned recruiters of final placements 2020 included HPCL, Microsoft, Amazon, Goldman Sachs, DE Shaw, Optum, Tonichi Insatsu, Robert Bosch, etc. The institute provides facilities and services in the form of training sessions and workshops to prepare students for the placement season."
+		]
+	},{
+		"tag": "CSE proffesors",
+		"patterns": [
+			"Who is the brach instructor and advisor for cse computer science?",
+			"How are the proffesors in cse computer science",
+			"which faculty proffesor i can contact to get help in cse computer science."
+		],
+		"responses": [
+			"The branch instructor and advisor for CSE is Mr.Manas Thakur. You ca consult him for any help during your CSE course and also for guidance as well."
+		]
+	},{
+		"tag": "CSE lab",
+		"patterns": [
+			"Are there high tech labs available for programming?",
+			"is IIT mandi equipped with proper programming labs "
+		],
+		"responses": [
+			"Yes, we have high tech well equipped labs for programming.You will enjoy high internet speed in those labs as well."
+		]
+	},{
+		"tag": "programming language",
+		"patterns": [
+			"Which language is more prefered C++ or java or python?",
+			"which programming language to start with",
+			"is C++/java/python the best to start as a beginner"
+		],
+		"responses": [
+			"You can start with either python or cpp. Python is taught in first semester from basics but simultaneously keep doing c++ also yourself. cpp is best for competitive coding and also required for some computer science core courses in 3rd sem. Its basic will not be taught by college."
+		]
+	},{
+		"tag": "DSE Courses",
+		"patterns": [
+			"What are courses in dse data science?",
+			"What are core courses of dse data science?",
+			"What are discipline elective courses in dse data science?",
+			"Do we study artificial intelligence machine learning in dse data science?",
+			"What is dse data science all about"
+		],
+		"responses": [
+			"DSE is an interdisciplinary field that uses specific methods, processes, algorithms and systems to extract knowledge and insights from many structured and unstructured data. It incorporates knowledge from Statistics, Computer Science and Mathematics and hence can tackle challenging application domain.                                                                                                                                                The core courses in DSE are Data handling and visualization ,Mathematical Foundations of Data Science I,Mathematical Foundations of Data Science II,Introduction to Data structures and Algorithms,Matrix Computations for Data Science,Information Security and Privacy,Computing for Data Science, Introduction to Statistical Learning,Optimization for Data Science        "
+		]
+	},{
+		"tag": "DSE future scope",
+		"patterns": [
+			"If I do minors in dse , can i go for masters in dse data science?",
+			"What are various government govt job opportunities for dse  data science students?",
+			"other than job what are the other options in dse data science"
+		],
+		"responses": [
+			"DSE is a new branch and we haven't had a batch sit for placements or internships yet.1. The number of opportunities as mentioned earlier is HUGE. Almost all software companies also have openings for data science related roles. Google, Facebook, Microsoft, Amazon, Adobe, Uber, CERN, NASA, ISRO etc.2. Our students have done data science related internships at ISRO, Siemens, Hyperverge, Japanese companies.3. We believe that the opportunities will be more or less similar to CSE."
+		]
+	},{
+		"tag": "DSE placement",
+		"patterns": [
+			"what is an average package for dse data science student?",
+			"What are the companies that visit for dse data science student placement and internship?",
+			"What is on campus placement rate for dse data science student?",
+			"will i get placed after 4 years from dse data science",
+			"placement statististics stats of data science dse"
+		],
+		"responses": [
+			"DSE is a new branch in IIT Mandi therefore the placment statistics and job offers are yet not known."
+		]
+	},{
+		"tag": "DSE proffesors",
+		"patterns": [
+			"Who is the brach instructor and advisor for dse data science?",
+			"How are the proffesors in DSE data science",
+			"which faculty proffesor i can contact to get help in dse data science"
+		],
+		"responses": [
+			"The names and contact info of faculties in IIT Mandi for DSE are provided in the link http://se.iitmandi.ac.in/faculty.php"
+		]
+	},{
+		"tag": "DBE",
+		"patterns": [
+			"What is Bioengineering?",
+			"What is the difference between bioengineering and biotechnology?",
+			"Is bioengineering is same as biotech?",
+			"how bio engineering is different from biotech?"
+		],
+		"responses": [
+			"Bioengineering integrates physical, chemical, mathematical, computational and life sciences with core engineering principles driving the technologies towards advances and applications in health, environment, agriculture, energy etc thereby improving the quality of life. It creates knowledge from the molecular to organ systems levels, develops materials, devices, systems, information approaches, technology management, and methods for assessment and evaluation of technology, for the biological applications. The discipline of bioengineering has evolved drastically over the past 50 years, seemingly encompassing all fields that include bioelectric phenomena, bioinformatics, biomaterials, biomechanics, bioinstrumentation, biosensors, biosignal processing, biotechnology, computational biology, medical imaging, etc. The B.Tech and M.Tech dual degree programme on Bioengineering strives to train the students in the field of physical, chemical, mathematical and biological sciences together with engineering principles for inculcating knowledge enabling them in developing and deploying Bioengineering technologies in various fields. \n"
+		]
+	},{
+		"tag": "mtech_bio",
+		"patterns": [
+			"What are various disciple choices we get to choose from for our masters?",
+			"What are options for doing specialisation?",
+			"In which field in can do my Mtech?",
+			"options for mtech?"
+		],
+		"responses": [
+			"Biomedical Engineering, Agro-Technology, Environmental Science and Engineering, Computational Bioengineering"
+		]
+	},{
+		"tag": "placement_bio",
+		"patterns": [
+			"Which are the companies related to bioengineering for placement in campus ?",
+			"What is placement percentage of bio engineering?",
+			"What is the average pakage of bioengineering?"
+		],
+		"responses": [
+			"Bio engineering is a new branch in IIT Mandi therefore the placment statistics and job offers are yet not known."
+		]
+	},{
+		"tag": "curriculum_bioenginering",
+		"patterns": [
+			"What is the curriculum for this bioengineering?",
+			"What if i have not studied biology in 12th?",
+			"What are the main courses taught to us in bioenginnering?"
+		],
+		"responses": [
+			"You will be taught biology from basic. No need to worry if you haven't studied biology in 12th. Click on the link to know about all the courses related to bio engineering https://www.iitmandi.ac.in/academics/files/B.Tech-M.Tech-converted.pdf"
+		]
+	},{
+		"tag": "biotech_vs_bioenginring",
+		"patterns": [
+			"what is diffrence between dual- degree and integrated programme?",
+			"can i leave after 4 years getting an btech degree?",
+			"does i get both btech and mtech degree in 5 years?"
+		],
+		"responses": [
+			"In case of an integrated degree, a student gets one combined degree while in case of a dual degree, a student gets two different degrees from the same institute.You cant leave the course in 4 years. You have to complete 5 year course.yes you will get both bachelors and masters degree after completing 5 year course."
+		]
+	},{
+		"tag": "lab_bioengineering",
+		"patterns": [
+			"How old bioenginering is in iit mandi?",
+			"What are lab facilities available for bioengineering at iit mandi?",
+			"Labs related to bionginnering?"
+		],
+		"responses": [
+			"Btech in bioenginering is quite new here. But we have Bio-Tech Mtech which is quite old. Hence we are well equiped with labs and other facilities related to bio- engineering"
+		]
+	},{
+		"tag": "bio_future_scope",
+		"patterns": [
+			"Do i have to go for phd to get a good job?",
+			"is phd is necessary for research related jobs?",
+			"Are non researcher jobs available in bioengineering?",
+			"can i do tech jobs after masters in computational biology?"
+		],
+		"responses": [
+			"Phd is not compulsory its your choice.But if you like reasearch work and want to keep learning you can go for phd.The more you learn the more you explore."
+		]
+	},{
+		"tag": "Engineering Physics",
+		"patterns": [
+			"What is engineering physics ",
+			"What are various domains in enginering physics?"
+		],
+		"responses": [
+			"Engineering physics, or engineering science, refers to the study of the combined disciplines of physics, mathematics, biology, social science, and engineering, particularly computer, nuclear, electrical, electronic, aerospace, materials or mechanical engineering. hhttps://www.iitmandi.ac.in/academics/files/B.TechEngg.Physics.pdf"
+		]
+	},{
+		"tag": "placement EP",
+		"patterns": [
+			"Which are the companies related to engoneering physics ep for placement in campus ?",
+			"What is placement statistics of engineering physics?",
+			"What is the average pakage of engineering physics?"
+		],
+		"responses": [
+			"Engineering physics is a new branch and we haven't had a batch sit for placements or internships yet.1. The number of opportunities  is HUGE. "
+		]
+	},{
+		"tag": "curriculum_Ep",
+		"patterns": [
+			"What is the curriculum for this enginring physics?",
+			"What are IC and discipline core and elective  courses of engineering physics?",
+			"What are the main courses taught to us in ep?",
+			"do we have quantum physics courses in ep "
+		],
+		"responses": [
+			" click on the link to get all information about courses og EP: https://www.iitmandi.ac.in/academics/files/B.TechEngg.Physics.pdf"
+		]
+	},{
+		"tag": "lab_ep",
+		"patterns": [
+			"How old engineering physics is in iit mandi?",
+			"What are lab facilities available for engineering physics at iit mandi?",
+			"Labs related to engineering physics?"
+		],
+		"responses": [
+			"Here is the detailed information about labs at iit mandi https://www.iitmandi.ac.in/Schools/SE/labs.php"
+		]
+	},{
+		"tag": "ep_future_scope",
+		"patterns": [
+			"What are various fields i can do after btech in engineering physics?",
+			"Do i need to do mtech to get a good job in engineering physics?",
+			"can i do research related jobs after btech in engineering physics?"
+		],
+		"responses": [
+			"By pursuing a degree in Engineering Physics, one can choose a career in applied Physics in industries or make a career in telecommunications, micro-devices, microelectronics, optoelectronics, nanotechnology, lasers or quantum information systems."
+		]
+	},{
+		"tag": "ME ",
+		"patterns": [
+			"what is mechanical engineering?",
+			"What do I need to do as an Mechnical Engineer?",
+			"what are a few recent breakthrough in mechanical enginering?"
+		],
+		"responses": [
+			"mechanical engineering is the application of the principles and problem-solving techniques of engineering from design to manufacturing to the marketplace for any object. Mechanical engineers analyze their work using the principles of motion, energy, and force—ensuring that designs function safely, efficiently, and reliably, all at a competitive cost."
+		]
+	},{
+		"tag": "infrastructure(ME)",
+		"patterns": [
+			"what are the facilities available for mechanical engineers in campus?",
+			"what are the facilities available for mechanical engineers in campus?",
+			"What are the labs related to mechanical enginering?"
+		],
+		"responses": [
+			"There are various facilities available for mechanical engineering in the campus which include mechanical design and thermo fluid labs. Detailed information for the same is provided in the link attached:   https://drive.google.com/file/d/1USaUBYNVEPdjp3Std2B23K7DRTrZ9sHf/view?usp=sharing"
+		]
+	},{
+		"tag": "placement(ME)",
+		"patterns": [
+			"what are the career opportunities available in mechanical core industry?",
+			"discuss the placement statistics for mechanical engineering.",
+			"what are the career opportunities available in mechanical non core industry?",
+			"what are the future opportunities available in mechanical engineering?"
+		],
+		"responses": [
+			"There are various future opportunities available in mechanical engineering which include Robotronics, product designer and fluid mechanics. here is the link provided for detailed info: https://drive.google.com/file/d/1USaUBYNVEPdjp3Std2B23K7DRTrZ9sHf/view?usp=sharing"
+		]
+	},{
+		"tag": "ME prof",
+		"patterns": [
+			"who are the professors in mechanical engineering?",
+			"who are the faculties in mechanical engineering?",
+			"Who is the brach instructor and advisor for mechnical nginering?"
+		],
+		"responses": [
+			"Names of Faculties in mechanical engineering are provided in the link given: http://se.iitmandi.ac.in/faculty.php"
+		]
+	},{
+		"tag": "ME courses",
+		"patterns": [
+			"What are IC and discipline core mech courses?",
+			"What are the discipline elective courses for mechnical engineering?",
+			"Which courses will i study as a btech mechnical engineering student?"
+		],
+		"responses": [
+			"The detailed list of the core and non core mechanical engineering  courses is given here :http://www.iitmandi.ac.in/academics/files/btech_mech.pdf"
+		]
+	},{
+		"tag": "EE",
+		"patterns": [
+			"What is electrical engineering?",
+			"Name a few subdisciplines of electrical engineering",
+			"What do I need to do as an Electrical Engineer?"
+		],
+		"responses": [
+			"Electrical engineering is an engineering discipline concerned with the study, design and application of equipment, devices and systems which use electricity, electronics, and electromagnetism. It emerged as an identifiable occupation in the latter half of the 19th century after commercialization of the electric telegraph, the telephone, and electrical power generation, distribution and use.electrical engineering can be divided into four main branches: electric power and machinery, electronics, communications and control, and computers."
+		]
+	},{
+		"tag": "Electrical and elctronics",
+		"patterns": [
+			"What is the difference between electrical and electronics engineering?",
+			"How is electrical and electronics engineering different?",
+			"Is electrical and electronics engineering the same?"
+		],
+		"responses": [
+			"Electrical Engineering is different from Electronics Engineering. Electrical engineering deals with distribution and transmission of electrical energy ,electrical machinery,generation problems,motors and it's controlling. Electronics Engineering refers to the semiconductor devices and their connection on the integrated circuits and the printed circuit boards."
+		]
+	},{
+		"tag": "EE courses",
+		"patterns": [
+			"What are IC and discipline core electrical courses?",
+			"What are the discipline elective courses of electrical engineering? ",
+			"Which courses will i study as a btech electrical engineering student?",
+			"What are the main cources related to electrical engineering?"
+		],
+		"responses": [
+			"List of IC core courses : Electrical systems around us ( IC 160), Signals and systems (IC 260), Electromechanics and lab (EE 201), Computer Organisation and lab (CS 201), Control Systems and lab (EE 301), Power systems and lab(EE 303), Communication theory and lab(EE 304), Microelectronics and lab(EE 311), Network Theory(EE203), Digital Circuit Design and lab(EE208), Analog Circuit Design and lab(EE2XX) . List of discipline elective courses are: Power Electronics., Linear Dynamical systems, Robust control systems, Digital Image processing, Applied Optimization, Digital signal processing, Embedded Systems and many"
+		]
+	},{
+		"tag": "EE prof",
+		"patterns": [
+			"Who are the professors in electrical engineering?",
+			"Who are the professors in electrical engineering?",
+			"Who are the main instructors related to electrical engineering?",
+			"Who is the brach instructor and advisor for electrical engineering?"
+		],
+		"responses": [
+			"Here is list of faculties http://iitmandi.ac.in/Schools/SCEE/faculty.php"
+		]
+	},{
+		"tag": "EE future",
+		"patterns": [
+			"Carrer options for an electrical engineer .",
+			"Carrer options for an electrical engineer .",
+			"Which fields can I enter as an electrical engineer?",
+			"What are the job prospects for an electrical engineer?"
+		],
+		"responses": [
+			"An electrical engineer can become: Power engineer, Control/Robotics engineer, VLSI engineer, Embedded systems engineer, Analog design engineer, Digital design engineer, Circuit and design tester, Computer science engineer (Since IIT Mandi provides you flexibility to explore and study CSE so most students take this route only and don’t explore other"
+		]
+	},{
+		"tag": "EE placement",
+		"patterns": [
+			"Which are the companies for core placement in electrical engineering?",
+			"What are the placement statistics for electrical engineering?",
+			"What are the core and non core opportunities other than placements?",
+			"What are the internship opportunities available for an electrical engineer?"
+		],
+		"responses": [
+			"Electrical Engineering placement details are provided in the pdf attached: https://drive.google.com/file/d/1pI7akHLzHAV_-6vR-PSvFe5XswEXmohF/view?usp=sharing"
+		]
+	},{
+		"tag": "EE infrastructure",
+		"patterns": [
+			"what are the facilities available for electrical engineers in campus?",
+			"what are the various labs available for electrical engineers in campus?",
+			"labratory related to electrical engineering?"
+		],
+		"responses": [
+			"Here is the detailed information about labs at iit mandi https://www.iitmandi.ac.in/Schools/SE/labs.php"
+		]
+	},{
+		"tag": "CE",
+		"patterns": [
+			"What is civil engineering?",
+			"What do I need to do as a civil engineer?"
+		],
+		"responses": [
+			"Civil engineering is a vast field of engineering encompassing almost every aspect of human lives. From buildings design to water treatment civil engineers are everywhere. These few examples illustrate that civil engineers do a lot more than design buildings and bridges. They can be found in the aerospace industry, designing jetliners and space stations; in the automotive industry, perfecting the load-carrying capacity of a chassis and improving the crashworthiness of bumpers and doors; and they can be found in the ship-building industry, the power industry, and many other industries wherever constructed facilities are involved. And they plan and oversee the construction of these facilities as construction managers."
+		]
+	},{
+		"tag": "ce academic",
+		"patterns": [
+			"Curriculum of civil engineering",
+			"Which courses are we taught in civil engineering?",
+			"What are the discipline elective and core courses of civil engineering? "
+		],
+		"responses": [
+			"click on the link to get detailed information of civil courses http://www.iitmandi.ac.in/academics/files/BTECH_CIVIL.pdf "
+		]
+	},{
+		"tag": "ce placement",
+		"patterns": [
+			"What are the placement opportunities in civil engineering?",
+			"What are the various opportunities in core civil engineering?",
+			"What are the placement statistics of civil engineering?"
+		],
+		"responses": [
+			"Civil engineers from IIT Mandi are placed in Core ,Non core and IT sectors . For detailed placement details and statistics refer to the pdf link provided: https://drive.google.com/file/d/17FarM3ENFG4dMv5CamQQdgEGkW-HMmvg/view?usp=sharing"
+		]
+	},{
+		"tag": "CE prof",
+		"patterns": [
+			"Who are the professors in civil engineering?",
+			"Who is the brach instructor and advisor for civil engineering?",
+			"Who are the main instructors related to civil engineering?"
+		],
+		"responses": [
+			"The faculties in civil engneering and their details is provided in the link http://se.iitmandi.ac.in/faculty.php"
+		]
+	},{
+		"tag": "infrastructure(CE)",
+		"patterns": [
+			"what are the facilities available for civil engineers in campus?",
+			"what are the various labs available for civil engineers in campus?",
+			"Do we have labs related to civil engineering?"
+		],
+		"responses": [
+			"Here is the detailed information about labs at iit mandi https://www.iitmandi.ac.in/Schools/SE/labs.php"
+		]
+	},{
+		"tag": "Gymkhana",
+		"patterns": [
+			"What is IIT Mandi Gymkhana?",
+			"what is student council?",
+			"what does student council does",
+			"what is role of gymkhana"
+		],
+		"responses": [
+			"Gymkhana is the student body at IIT Mandi which is responsible in the decision making process of the institute. Here is the link provided of the gymkhana https://gymkhana.iitmandi.co.in/"
+		]
+	},{
+		"tag": "GCS",
+		"patterns": [
+			"What is GCS?",
+			"what is Guidance and Counselling Service?",
+			"what does Guidance and Counselling Service does",
+			"what is role of GCS"
+		],
+		"responses": [
+			"GCS stands for guidance and counselling service. It offers the students a helpful hand for friendship and helps them adjust well within the institute and understand it's curriculum. Refer to the link ofGCS for more info provided here: http://www.iitmandi.ac.in/gcs/"
+		]
+	},{
+		"tag": "Cultural club cordi",
+		"patterns": [
+			"who is the cultural secretary?",
+			"who is the coordinator of cultural club?",
+			"who is head of cult society",
+			"Whom to contact for cultural events?"
+		],
+		"responses": [
+			"Tushar Tyagi is the cultural secretary in IIT Mandi ."
+		]
+	},{
+		"tag": "UDC",
+		"patterns": [
+			"how can i become a part of the dance club?",
+			"who is the coordinator of Dance club?",
+			"what opportunites can i get as a member of the UDC?",
+			"What are the various events organised by Dance club?",
+			"what is UDC?"
+		],
+		"responses": [
+			"UDC is the dance club at IIT Mandi. Anooshka Bajaj and Pratiksha Jain are the coordinators of UDC. There are no prerequisites for joining UDC . The only thing required is your willingness for dancing."
+		],
+		"#untitled--12": "For details visit the website of UDC https://www.facebook.com/Danceclub.IITMandi/"
+	},{
+		"tag": "Music club",
+		"patterns": [
+			"how can i become a part of the music club?",
+			"who is the coordinator of music club?",
+			"what opportunites can i get as a member of the music club?",
+			"What are the various events organised by Music club?"
+		],
+		"responses": [
+			"Music club at IIT Mandi houses the students who find their interests in singing and playing various musical instruments.Here is the link provided of the music club IIT Mandi for detailed information https://www.facebook.com/musicsociety.iitmandi/"
+		]
+	},{
+		"tag": "Art geeks",
+		"patterns": [
+			"how can i become a part of art geeks?",
+			"who is the coordinator of art geeks?",
+			"what opportunites can i get as a member of the art geeks?",
+			"What are the various events organised by art geeks?"
+		],
+		"responses": [
+			"Art geeks is the officiall art club of IIT Mandi It is responsible for new and innovative ways of promoting art culture in the college. Here is the link provided for detailed information of the club https://artgeeks.github.io/"
+		]
+	},{
+		"tag": "photography",
+		"patterns": [
+			"how can i become a part of photography club?",
+			"who is the coordinator of shutterbugs?",
+			"what opportunites can i get as a member of the photography club?",
+			"What are the various events organised by  PMC?"
+		],
+		"responses": [
+			"The filmmaking branch of the club. Makes short films, inYoutus, freshers introduction  cnematic videos. It has a highly active presYoThe filmmaking branch of the club. Makes short films, interviews, freshers introduction and cinematic videos. It has a highly active presence on Youtube. Youtube"
+		]
+	},{
+		"tag": "perception",
+		"patterns": [
+			"how can i become a part of perception?",
+			"who is the coordinator of perception?",
+			"what opportunites can i get as a member of the perception?",
+			"What are the various events organised by perception club?"
+		],
+		"responses": [
+			"Shutterbugs is the photography branch of the club. Focuses on various kinds of photography including astrophotography, portrait photography, landscape photography and street photography. It covers all college events and treks. It also organizes photo trips and walks. here is all information about perception https://wiki.iitmandi.co.in/p/Photography_and_Moviemaking_Club"
+		]
+	},{
+		"tag": "designaut",
+		"patterns": [
+			"how can i become a part of designauts?",
+			"who is the coordinator of designauts?",
+			"what opportunites can i get as a member of the designauts?",
+			"What are the various events organised by Designauts club?"
+		],
+		"responses": [
+			"Designauts is an open club. there are no prerequisites to be a part of it just your interest.Here is the link to explore it.  https://wiki.iitmandi.co.in/p/Designauts "
+		]
+	},{
+		"tag": "Gustak saale",
+		"patterns": [
+			"how can i become a part of the drama club?",
+			"who is the coordinator of Drama club?",
+			"what opportunites can i get as a member of the Drama club?",
+			"What are the various events organised by gustaakh saale?",
+			"what is gustaakh saale?"
+		],
+		"responses": [
+			"Gustakh Saale is the dramatics club at IIT Mandi. Here is the link provided for detailed information of the drama club https://wiki.iitmandi.co.in/p/Drama_Club"
+		]
+	},{
+		"tag": "litsoc",
+		"patterns": [
+			"who is the secretary of the literary club?",
+			"who are co ordinators for different clubs under litsoc",
+			"what are the clubs under the literary club?",
+			"what is litsoc?",
+			"who is the secretary of the litsoc?"
+		],
+		"responses": [
+			"Litsoc is the literary club at IIT Mandi . It houses debating club , writing club and quizing club . Shikha Choudhary is the secretary of literary club. For detailed information of the literary club refer to the provided link https://www.facebook.com/literarysocietyiitmandi/"
+		]
+	},{
+		"tag": "DebSoc",
+		"patterns": [
+			"who is the coordinator of the debating club?",
+			"How to be a part of the Debating club?",
+			"what opportunities will i get once i am in the Deb Soc?",
+			"what is DebSoc?",
+			"what do we do in Debating Society?"
+		],
+		"responses": [
+			"Debsoc is the debating club at IIT Mandi which houses the students interested in debating and are interested in voicing their concerns. Here is the link provided for detailed info of debsoc https://www.facebook.com/literarysocietyiitmandi/"
+		]
+	},{
+		"tag": "WritingClub",
+		"patterns": [
+			"who is the coordinator of the writing club?",
+			"How to be a part of the Writing Club?",
+			"what opportunities will i get once i am in the writing club ?",
+			"what do we do in writing club?"
+		],
+		"responses": [
+			"Writing club at IIT Mandi is the club which houses the students interested in writing . Ridhi Ratan and V. Madhumita are the coordinators of the writing club. Here is the link provided for the club https://www.facebook.com/literarysocietyiitmandi/"
+		]
+	},{
+		"tag": "Quorsity",
+		"patterns": [
+			"who is the coordinator of the quizing club?",
+			"How to be a part of the Quizzing club?",
+			"what opportunities will i get once i am in the quizzing club ?",
+			"what do we do in quorsity?",
+			"what is quorsity?"
+		],
+		"responses": [
+			"Quizing club at IIT Mandi is the club responsible for conducting quizes on various topics .Raman Soni and Anwesh Das are the coordinators of the quizing club . Here is the link provided for the club's facebook page https://www.facebook.com/literarysocietyiitmandi/"
+		]
+	},{
+		"tag": "litsoc",
+		"patterns": [
+			"what are the prerequisites to be a part of the literary society?",
+			"what opportunities will i get once i am in the litsoc?",
+			"what are the achievements of literary society?",
+			"How to be part of litsoc?"
+		],
+		"responses": [
+			"Students interested to be a part of litsoc must actively participate in its activities and must have passion for writing or debating."
+		]
+	},{
+		"tag": "sports coordi",
+		"patterns": [
+			"who is the sports secretary?",
+			"who is the coordinator of sports club?",
+			"who are the coordinators of different sports?",
+			"Whom to contact for sports?"
+		],
+		"responses": [
+			"Aakash Maurya is the sports secretary and he must be contacted for sports related queries."
+		]
+	},{
+		"tag": "sports facilities",
+		"patterns": [
+			"which sports activities does the sports club include?",
+			"What are the facilities in sports?",
+			"What sports are available?",
+			"is there any special event for the sports club?",
+			"how can i participate in any sports"
+		],
+		"responses": [
+			"Yes , there is a special sports event in IIT Mandi named Rann Neeti. For more details visit the link this link: https://m.facebook.com/Rannneetivqv/"
+		]
+	},{
+		"tag": "sports event",
+		"patterns": [
+			"is there any special event for the sports club?",
+			"which kind of competitions are organised in sports?",
+			"what are the achievements of the sports club?",
+			"are there any intra college competitions in sports?",
+			"do we play sports with other colleges"
+		],
+		"responses": [
+			"there are various sports competition organised by IIT mandi sports society. For more info visit https://wiki.iitmandi.co.in/p/Sports_Society#Rann-Neeti_and_Inter-College_Tournaments"
+		]
+	},{
+		"tag": "MTB",
+		"patterns": [
+			"how can i become a part of MTB?",
+			"who is the coordinator of MTB club?",
+			"how can i become a part of MTB?",
+			"What are the various rides organised by mountain biking club?",
+			"what is mountain biking club?"
+		],
+		"responses": [
+			"MTB is the mountain biking club.the cordis are Atul Jain and Abhishek Singh.It is a community of ebullient riders, inclusive of students, faculty and staff. here is a link to know more https://wiki.iitmandi.co.in/p/Mountain_Biking_Club"
+		]
+	},{
+		"tag": "H&T",
+		"patterns": [
+			"how can i become a part of H&T?",
+			"who is the coordinator of H and T club?",
+			"how can i become a part of hiking and trekking?",
+			"What are the various rides organised by HnT club?",
+			"what is HnT club?"
+		],
+		"responses": [
+			"HnT stands for hicking and trekking club. It helps students to explore the beauty of Himalayas by conducting treks in and outside Himachal Pradesh. Here is the link provided of the Hnt club https://wiki.iitmandi.co.in/p/Hiking_and_Trekking_Club"
+		]
+	},{
+		"tag": "Technical clubs",
+		"patterns": [
+			"Who is overall technical secretary?",
+			"what all technical clubs are there?",
+			"How many different technical clubs are there"
+		],
+		"responses": [
+			"there are all sorts of technical club in IIT Mandi. To know their names follow the link https://wiki.iitmandi.co.in/p/List_of_Societies_and_Clubs#Technical_Society"
+		]
+	},{
+		"tag": "programming clubs",
+		"patterns": [
+			"Whar are the prerequisites to join programming club?",
+			"events of programming club?",
+			"what is the benefit to join pc",
+			"what does pc do",
+			"should i know programming to join programming club"
+		],
+		"responses": [
+			"Programming Club, aka KamandPrompt is a group of clubs where students can acquire knowledge and gain experience in the field of Competitive Programming, Machine Learning, Artificial Intelligence and Development. for more info https://wiki.iitmandi.co.in/p/Programming_Club"
+		]
+	},{
+		"tag": "Robotronics clubs",
+		"patterns": [
+			"What are the prerequisites to join Robotronics club ?",
+			"events of Robotronics club",
+			"what is the benefit to join robotronics club",
+			"what does robotronics club do"
+		],
+		"responses": [
+			"Robotronics Club is the official club under Science and Technology Council, IIT Mandi. It is one of the most active clubs created to bring out the creativity among the students and make them familiar with the ever growing world of Robotics. for more info visit https://wiki.iitmandi.co.in/p/Robotronics_Club"
+		]
+	},{
+		"tag": "Stac/Astronomy clubs",
+		"patterns": [
+			"What is Stac all about?",
+			"events of  astronomy",
+			"what is the benefit to join astronomy club",
+			"what does stac do"
+		],
+		"responses": [
+			"STAC is a club where one can explore every corner of the technical knowledge they have! The club enables students to not only enhance their knowledge about the different aspects related to astronomy and astrophysics but also use the technologies available to develop their skills that will help them in future. To know more visit https://wiki.iitmandi.co.in/p/STAC"
+		]
+	},{
+		"tag": "E-cell",
+		"patterns": [
+			"What are the prerequisites to join E-cell club ?",
+			"events of E-cell",
+			"what is the benefit to join ecell club",
+			"what does ecell do"
+		],
+		"responses": [
+			"E-Cell, aka Entrepreneurship Cell, is IIT Mandi’s in-campus organization that aims to instigate the entrepreneurial spirits among our community. To know more visit https://wiki.iitmandi.co.in/p/Entrepreneurship_Cell"
+		]
+	},{
+		"tag": "Yantrik",
+		"patterns": [
+			"What are the prerequisites to join Yantrik club ?",
+			"events of yantrik",
+			"what is the benefit to join yantrik club",
+			"what does yantrik do"
+		],
+		"responses": [
+			"Yantrik is one of the major clubs of IIT Mandi. It comes under the Science and Technology Council. Yantrik conducts various events like junkyard wars, RC races, and even mechatronics workshop. Visit https://wiki.iitmandi.co.in/p/Yantrik_Club"
+		]
+	},{
+		"tag": "Nirman ",
+		"patterns": [
+			"What are the prerequisites to join nirmaan club ?",
+			"events of nirmaan club",
+			"what is the benefit to join nirmaan club",
+			"what does nirmaan club do"
+		],
+		"responses": [
+			"Nirmaan Club is a club of IIT Mandi where someone can explore the beauty of civil engineering by making a prototype or analysing any civil engineering structure. Visit https://wiki.iitmandi.co.in/p/Nirmaan_Club"
+		]
+	},{
+		"tag": "fest",
+		"patterns": [
+			"How and where is exodia organised",
+			"what is Exodia",
+			"what about technical and cultural fest?",
+			"How is our cultural fest?"
+		],
+		"responses": [
+			"IIT Mandi, one of the pearls in the splendid tiaras of The Great Himalayas, hereby takes a stride to add to the shimmer of the gorge by bringing forth its Techno-Cultural festival ‘’EXODIA’’ which is back with a bang!! , and to endorse your presence as a delight, we will make sure that you’ll see more marvels this time. Exodia-reflects the Godly powers, the inexorable… in short the watchword of IIT Mandi. Exodia also happens to be one of the biggest college festival of northern india. This is your chance to immerse yourself into a huge variety of informative and lively events, showcases of cutting-edge technology, motivational speeches, and skill-sharpening workshops, specifically designed to present an exhilarating fusion of Technology and Culture, right at the HEART OF THE HIMALAYAS"
+		]
+	},{
+		"tag": "sports fest",
+		"patterns": [
+			"How and where is Rann Neeti organised",
+			"what is Rann Neeti",
+			"what about sports fest?",
+			"How is our sports fest?"
+		],
+		"responses": [
+			"Sports Society organizes the annual sports fest of IIT Mandi, Rann-Neeti which is the biggest Sports Fest of the Himalayas. https://wiki.iitmandi.co.in/p/Sports_Society#Rann-Neeti_and_Inter-College_Tournaments"
+		]
+	},{
+		"tag": "litfest",
+		"patterns": [
+			"How and where is ruvaan organized",
+			"what is ruvaan",
+			"what about literary fest",
+			"How is our literarture fest?"
+		],
+		"responses": [
+			"Ruvaan is the annual inter-college Literary Festival of IIT Mandi. The first edition of Ruvaan was conducted in March 2020. https://wiki.iitmandi.co.in/p/Ruvaan"
+		]
+	},{
+		"tag": "astrax",
+		"patterns": [
+			"what is astrax",
+			"what is astronomy fest",
+			"who comes in astrax"
+		],
+		"responses": [
+			"Astrax is the inter-college Astro-Meet organized by STAC. It is the center of attraction for students and professors with an inclination towards computational and theoretical astronomy. for more info checkout https://wiki.iitmandi.co.in/p/AstraX "
+		]
+	},{
+		"tag": "frosthack",
+		"patterns": [
+			"what is frosthack",
+			"are there any hackthon organised",
+			"when are hackathons organised"
+		],
+		"responses": [
+			"There are various hackathons organised by programming club iit mandi. Some include frosthack and Hack36. for more info visit https://pc.iitmandi.co.in/"
+		]
+	},{
+		"tag": "route",
+		"patterns": [
+			"What is the way to IIT Mandi? ",
+			"How to reach IIT Mandi?",
+			"what is route to IIT mandi?",
+			"through what way we can reach IIT mandi?"
+		],
+		"responses": [
+			"Reach Delhi/Chandigarh whichever is convenient to you, by whatever means is convenient to you, and then take a bus (HRTC or private) from Delhi / Chandigarh to Mandi. Then institute bus from mandi to campus."
+		]
+	},{
+		"tag": "canteens",
+		"patterns": [
+			"How many canteens are there in campus?",
+			"How many canteens are there in north campus?",
+			"How many canteens are there in south campus?",
+			"What is the total number of canteens in IIT Mandi?",
+			"Are there any night canteens?"
+		],
+		"responses": [
+			"In-campus Dining: 2 central mess in South Campus and 2 central mess in North Campus (for hot meals throughout the year), Bakery, Canteen and 2 cafeterias are the places available for dining in the main campus."
+		]
+	},{
+		"tag": "mess",
+		"patterns": [
+			"how many mess are there in north campus?",
+			"How many mess are there in south campus?",
+			"total mess number in campus",
+			"common mess for girls and boys?"
+		],
+		"responses": [
+			"There are common mess for boys and girls. 2 mess in north campus 2 in South campus. we can choose any."
+		]
+	},{
+		"tag": "gym ",
+		"patterns": [
+			"Is there any gym in north campus?",
+			"Is there any gym in south campus?",
+			"How many  gyms are there in campus?",
+			"Do we have a gym trainer ?"
+		],
+		"responses": [
+			"We have a gym in both south and north campus. Basically weight training centre is there"
+		]
+	},{
+		"tag": "distance",
+		"patterns": [
+			"What is the distance between north and south campus?",
+			"What is the distance between north campus and Mandi ?",
+			"What is distance between south campus and Mandi?"
+		],
+		"responses": [
+			"Distance between Mandi - South campus - 14KM ;Mandi - North - 19KM ; South - Campus - 5KM "
+		]
+	},{
+		"tag": "building",
+		"patterns": [
+			"What are the various buildings available in north campus?",
+			"What are the various buildings available in south campus?",
+			"What are the buildings present in the Campus?"
+		],
+		"responses": [
+			"Hostel Mess Academic Gymkhana Faculty housing sports complex Health Centre"
+		]
+	},{
+		"tag": "hostel",
+		"patterns": [
+			"How many hostels are there in north campus?",
+			"How many hostels are there in south campus?",
+			"How many total hostels are there in the campus?",
+			"Are the hostels in campus co-ed?",
+			"Are there separate hostels for boys and girls?"
+		],
+		"responses": [
+			"We have separate hostels for girls and boys. There are several girls and boys hostels, which house the undergraduate and postgraduate students. Faculty quarters are available for all faculty members. There are a few staff staff quarters as well. There are also studio apartments and guest houses for visitors. The campus is a fully residential complex for students, faculty, staff and visitors."
+		]
+	},{
+		"tag": "travel",
+		"patterns": [
+			"What is mode of travel cycle requirement within campus? ",
+			"How to travel from north to south campus? bicycle required?",
+			"Are personal motor-vehicles allowed in the campus?",
+			"How to move about within the campus?"
+		],
+		"responses": [
+			"Cycles are not required to commute in campus. You can borrow from MTB club if you want to go cycling with your partner. Motor bikes are not allowed in the campus"
+		]
+	},{
+		"tag": "classes",
+		"patterns": [
+			"Are the weekends off ?",
+			"Do we have classes during weekends?",
+			"Do we have any fixed class schedule for weekends as well?",
+			"Can we have extra classes at weekends?",
+			"Do we perform practicals during weekends ?"
+		],
+		"responses": [
+			"there are no classes during weekend but it can sometimes happen if there is a non scheduled holiday during weekdays since 1 credit accounts to 14 lecture classes which needs to be accomplished. "
+		]
+	},{
+		"tag": "library",
+		"patterns": [
+			"Is library available in North Campus?",
+			"Is library available in South Campus?",
+			"How many libraries do we have ?",
+			"What are the timings of library?",
+			"For how long can we sit in library?"
+		],
+		"responses": [
+			"Central Library is situated in North Campus(newly built) and library is there in south campus also. To get info about timings and book borrowing system visit http://library.iitmandi.ac.in/"
+		]
+	},{
+		"tag": "guest house",
+		"patterns": [
+			"Who can use the Guest house of IIT Mandi?",
+			"Can our family members stay  in IIT Mandi guest houses?",
+			"For how long can anyone use the Guest house?",
+			"What are the charges of using the guest house?",
+			"What price anyone have to pay to use the guest house at IIT Mandi?"
+		],
+		"responses": [
+			"Guest house can be used by students and their families. Student can book them through oas online some days beforehand. The charges per night are 700 + 200(for one extra person). for more information checkout https://www.iitmandi.ac.in/Visitor_info/visitors/Notification_guesthouse_charges_27_6_2017.pdf  "
+		]
+	},{
+		"tag": "playground",
+		"patterns": [
+			"Which sports playgrounds are available in the campus?",
+			"Playfield for which games are present in campus?",
+			"What are the games for which we have measured grounds and fields?"
+		],
+		"responses": [
+			"We are well equipped with playground and equipments for Basketball, Cricket, Volleyball, Soccer, Hockey, Football, Badminton, Tennis, Table Tennis and Cycling are few sports being practiced in the main campus. Activities like Hiking and Trekking are encouraged under guidance. https://gymkhana.iitmandi.co.in/sports.html"
+		]
+	},{
+		"tag": "computer labs",
+		"patterns": [
+			"How many computer labs do we have ?",
+			"Do we have computer labs for programming ?",
+			"Can a non CSE student use proramming labs?",
+			"What are the facilities the programming labs equipped with?"
+		],
+		"responses": [
+			"Info about labs is given in the link https://www.iitmandi.ac.in/Schools/SE/labs.php"
+		]
+	},{
+		"tag": "weather",
+		"patterns": [
+			"Does it snow in the campus?",
+			"is the weather too cold at campus?",
+			"What kind of weather is there in the campus?",
+			"Does it rain more or less often in the campus?"
+		],
+		"responses": [
+			"Snow was last seen in feb 2019 when whole campus was covered with white dust. Its snows very rarely. The last time before 2019 it was 2014. Though every year you can witness some light snowflakes in early feb."
+		]
+	},{
+		"tag": "terrain",
+		"patterns": [
+			"Is the campus area all plain or the terrain is quite rough?",
+			"Is the campus too hilly and round?"
+		],
+		"responses": [
+			"The campus has three levels of terrain. Highest One has academic buildings and middle one has hostels and lowest one has faculty houses."
+		]
+	},{
+		"tag": "size of classroom",
+		"patterns": [
+			"What is the capacity or size of each classroom?",
+			"How big are classroom?"
+		],
+		"responses": [
+			"There are various classrooms in IIT Mandi. Some are big enough to accomodate 300 people and some are smaller to accomodate only 40 people. They are spacious and ventilated"
+		]
+	},{
+		"tag": "activity room",
+		"patterns": [
+			"Do we have seperate area or rooms for different club activities?",
+			"what about rooms for clubs?",
+			"are there any common rooms "
+		],
+		"responses": [
+			"There are seperate rooms for clubs (gymkhana club). Seperate rooms are also attached with hostel with TT Table foosball TV etc."
+		]
+	},{
+		"tag": "residential area",
+		"patterns": [
+			"Is there any residential area within the campus?",
+			"Is there any residential area within the campus?"
+		],
+		"responses": [
+			"near the campus there are villages with very less population (for kamand its 205). You will have to go to Mandi main city to see more residences."
+		]
+	},{
+		"tag": "trip",
+		"patterns": [
+			"What is the criteria to get permission to go out of the campus?",
+			"What is the criteria to get permission to go out of the campus?",
+			"how can we go on trips and hiking",
+			"do we need permission to go on trips"
+		],
+		"responses": [
+			"if not missing class only hostel warden signature and in other case faculty advisor signature also"
+		]
+	},{
+		"tag": "pool",
+		"patterns": [
+			"Is there any pool in the campus?",
+			"is there any swimming pool"
+		],
+		"responses": [
+			"There is a swimming Sports complex, North campus which is non - functional currently"
+		]
+	},{
+		"tag": "bus timings",
+		"patterns": [
+			"What are the timings of buses from north to south camous and vice versa?",
+			"What are the timings of buses from north to south camous and vice versa?",
+			"What are the timings of buses from campus to Mandi ?"
+		],
+		"responses": [
+			"Follow this link for Bus schedule  http://www.iitmandi.ac.in/files/bus_schedule.pdf"
+		]
+	},{
+		"tag": "delivery",
+		"patterns": [
+			"How is delivery service in IIT Mandi? ",
+			"does Amazon and Flipkart directly deliver stuff to campus",
+			"is food delivery available",
+			"are zomato and swiggy available"
+		],
+		"responses": [
+			"Almost all the companies like amazon, flipkart deliver at campus. In fact, they deliver it to one's room. There is a common delivery point as well from where on can collect recieved goods. Though Swiggy and Zomato are not available."
+		]
+	},{
+		"tag": "food outlets",
+		"patterns": [
+			"What are all the other food courts available within our campus",
+			"what cafe are there in campus",
+			"are there any restaurants in or near campus",
+			"any cafeteria or restaurants located near campus"
+		],
+		"responses": [
+			"One Bite Restaurant is located in North Campus close to C.V. Raman Guest House South Campus\nDaily Dose Restaurant is located in South Campus below the Maple Mess.\nTreat Restaurant is located outside the south campus on the main road, this is a private restaurant which students from IIT Mandi often visit for parties and/or normal lunches and dinners.\nThere are also similar places near North Campus."
+		]
+	},{
+		"tag": "Network",
+		"patterns": [
+			"which network/sim card works best in the campus",
+			"which company sim card should i buy",
+			"is there any requirement for local mandi sim card",
+			"Can I buy sim card in the capmus itself"
+		],
+		"responses": [
+			"You can use any network but airtel and jio would work best.Yes you can get simcard from campus but it is available only for a short time once freshers come."
+		]
+	},{
+		"tag": "banks",
+		"patterns": [
+			"Which Banks available in IIT Mandi?",
+			"Are there any atms/bank in the campus",
+			"which Banks branch is there in the campus"
+		],
+		"responses": [
+			"2 banks are there in the south campus - SBI and PNB"
+		]
+	},{
+		"tag": "fees",
+		"patterns": [
+			"fees of 8 semesters",
+			"fees per semester",
+			"how to pay fees",
+			"fees through paytm accepted"
+		],
+		"responses": [
+			"Fees per semester is around 1.25L with 1L tution fees and 25k hostel + mess fees.payment is done through net banking,neft,rtgs etc. for more info visit https://www.iitmandi.ac.in/academics/fees.php"
+		]
+	},{
+		"tag": "clothes",
+		"patterns": [
+			"which clothes to bring ",
+			"how much clothes to bring",
+			"winter summer clothes requirement "
+		],
+		"responses": [
+			"Bring plenty of clother for both summer and winter. A jacket is enough to sustain the winter chill till early december since after that we have holidays."
+		]
+	},{
+		"tag": "auditorium",
+		"patterns": [
+			"is there any auditorium theatre in campus",
+			"how big is the auditorium theatre",
+			"what is the seating capacity of auditorium theatre"
+		],
+		"responses": [
+			"there is a single auditrium and an open air theatre.Capacity of audi is more than 600 and OAT is around 1000 when stuffed in."
+		]
+	},{
+		"tag": "all play",
+		"patterns": [
+			"Athletics, Badminton, Basketball, Chess, Cricket, Football, Hockey, Lawn Tennis, Table Tennis, Volleyball, and Weight Lifting",
+			"Status of sports at iit mandi",
+			"games at iit mandi"
+		],
+		"responses": [
+			"Physical education and sports section, IIT Mandi, coordinates all the sports activities and gives special attention to interested students by providing them with well-experienced coaches and adequate facilities. To know more about it visit https://wiki.iitmandi.co.in/p/Sports_Society"
+		]
+	},{
+		"tag": "coaches",
+		"patterns": [
+			"Do we have specialised coaches for all sports and games?",
+			"is there coaching for sports?",
+			"Do we have specialised training for a particular sport?",
+			"How many sports have specialised training?"
+		],
+		"responses": [
+			"We do have separate coaches for all sports."
+		]
+	},{
+		"tag": "performance in exams",
+		"patterns": [
+			"what if a student does not perform satisfactorily in the academics?",
+			"what if a student does not perform satisfactorily in the academics?",
+			"What if a student fails in an examination?",
+			"Do we have to repeat the semester if we fail to pass the exams?"
+		],
+		"responses": [
+			"A student will be placed on Warning if, in any semester, any two of the following conditions hold  s/he fails to secure at least 15 credits ii. his/her SGPA is less than 5.0 iii. his/her CGPA is less than 5.0 During the term of the Warning, a student will not run for or hold any office concerning any student activity. Academic ProbationA student will be placed on Academic Probation if, at the conclusion of any semester, s/he attracts a second consecutive Warning or if any two of the following conditions hold:  i. s/he fails to secure at least 12 credits ii. his/her SGPA is less than 4.0 iii. his/her CGPA is less than 4.0\n"
+		]
+	},{
+		"tag": "scholarship",
+		"patterns": [
+			"is there any scholarship program for the students?",
+			"is there any scholarship program for girls?",
+			"Is there any way to get a concession in my fees?"
+		],
+		"responses": [
+			"click on the link to get all inforamtion related to fees http://www.iitmandi.ac.in/academics/scholarship.php"
+		]
+	},{
+		"tag": "branch change",
+		"patterns": [
+			"what are the branch change rules?",
+			"How can i change my branch?",
+			"What are the CGPA requirements to change the branch?",
+			"What is the eligibility to change my branch?",
+			"What is CGPA cutoff for branch change for last year?"
+		],
+		"responses": [
+			"IIT Mandi provides flexible branch changing provisions,the interested candidates can refer to the link provided-  https://iitmandi.ac.in/academics/branch_change.php?fbclid=IwAR0l45njdypwLgpzsjJ64wQ1if2XhK3pvle9dYIUVXjuioQuw2NRZ9qkfZk"
+		]
+	},{
+		"tag": "sem exchange",
+		"patterns": [
+			"what is the semester exchange program all about?",
+			"Which colleges are we allowed to choose for semester exchange program?",
+			"How many students can go for semester exchange?",
+			"Do we have international colleges as well for semester exchange program?"
+		],
+		"responses": [
+			"Students apply in their 4th semester for visit one of the international partners for 1-semester in their 5th, 6th, or 7th semester. 1.Students need to have >= 8.0 CGPA (~ 7.95+ maybe allowed in exceptional cases) 2.Students apply to an advertisement for semester exchange from IR and merit is created based upon student preference as well as their rank among applicants. 3.There are branch-wise seats in proportion to the applicants from each branch. 4.Students are exempt from semester fee at the foreign university but they need to pay for their boarding and lodging expenses – some expenses may be offset via a bank loan and/or semester abroad internship"
+		]
+	},{
+		"tag": "honors",
+		"patterns": [
+			"what is the criteria for getting a degree of btech hons?",
+			"what is the criteria for getting a degree of btech honors?",
+			"What score do i need to maintain for getting an honours degree?",
+			"Will I get the honours degree if I fail in an examination?"
+		],
+		"responses": [
+			"a. A student may opt for B.Tech. (Honors) programme if she/he has CGPA of 8.5 or more and no ‘F’ grade till fourth or fifth semester.b. For B. Tech (Honors), a student needs to earn additional 12 credits (over and above the required 160 credits for B. Tech degree) relevant to her/his discipline as recommended by the faculty advisor.c. Student should do ISTP & MTP compulsorily and obtain a grade of ‘B’ or above in both.d. Student should not have received ‘F’ grade throughout the B.Tech. program.e. Student should secure an overall CGPA of 8.5 or more out of 172 credits (160+12)."
+		]
+	},{
+		"tag": "socio-tech practicum",
+		"patterns": [
+			"what is interactive socio-technical practicum?",
+			"What are facilities for socio-technical practicum?",
+			"What is ISTP?"
+		],
+		"responses": [
+			"ISTP is intended to  1.Sensitize students with the problems around them in society. 2. Develop a sense of responsibility by being the solution provider. 3.Nurture the qualities required to become an excellent engineer or  technocrat who contributes to society in a variety of ways.Interactive Socio-Technical Practicum (ISTP) (3rd year) Examples of ISTP Projects 4.Watershed Management Techniques in Hilly Areas  5.Development of Educational Practical Kits/Tools for School Going Students 6.Bus Tracking Solution for the State of Himachal Pradesh 7.Eco-Tourism in Himachal Pradesh 8.Face-lifting Mandi (providing solution to congestion and traffic problems in Mandi town)  9.Food Waste Management"
+		]
+	},{
+		"tag": "design practicum",
+		"patterns": [
+			"what is design practicum?",
+			"Explain design practicum?",
+			"what is the infrastructure and facilities for design practicum?",
+			"what is DP?"
+		],
+		"responses": [
+			"Design Practicum (2nd year) 1.Random, inter-disciplinary teams of six members 2.Each project gets financial support upto Rs. 30 K 4.Each  team  is monitored  by  a  group  of  faculty (inter-schools). 5.Assessment is largely based on demonstration of working prototype in open house.Salient featuresObjectivesDesign a system, component, or process to meet desired needs  within  realistic  constraints  such  as  economics, environmental,  social,  health  and  safety,  manufacturability and sustainability."
+		]
+	},{
+		"tag": "reverse eng",
+		"patterns": [
+			"what is reverse engineering?",
+			"What is reverse engineering course all about?",
+			"What do we learn in reverse engineering?"
+		],
+		"responses": [
+			"Reverse Engineering (1st year) 1.Random, inter-disciplinary teams  2.Study existing products, eg. Fan, toaster, ... 3.Disassemble and document its design 4.Reassemble"
+		]
+	},{
+		"tag": "sgpa",
+		"patterns": [
+			"how is cgpa and sgpa calculated?",
+			"What is cgpa?",
+			"What is sgpa?",
+			"Formula to calculate Cgpa?",
+			"What is difference between cgpa and sgpa?"
+		],
+		"responses": [
+			"The performance in a semester is indicated by the Semester Grade Point Average (SGPA), which is a weighted average of the grades in all the courses done  by the student in the given semester. CGPA represents Cumulative Grade Point Averagefor all the semesters completed by the student.  The SGPA / CGPA is calculated as follows: SGPA / CGPA Calculation where ci  stands  for  the  credit  in  a  course  and gi  the  point equivalent of the grade obtained in that course.  The summation is over the number of courses n in the  semester."
+		]
+	},{
+		"tag": "grading",
+		"patterns": [
+			"discuss the grading system",
+			"what is grading system",
+			"How much do i need to score for securing an O grade?",
+			"Is the grading system relative?"
+		],
+		"responses": [
+			"Grading is done on a 10-point scale by means of letter grades: O, A, B, C, D, E, F.  On the 10-point scale, these letter grades carry the following numerical values:Letter Grade:              O          A             B             C             D             E              FPoints equivalence:    10         9              8              7             6            4              0Where F grade is fail grade.In addition to these, there is a temporary grade, I (Incomplete). The I-grade indicates that a small part of the total requirements of the course remains to be completed and that the student has done satisfactory work in all other aspects of the course. Also certain courses are Pass/Fail (P/F) courses"
+		]
+	},{
+		"tag": "credit system",
+		"patterns": [
+			"how is the credit distribution for courses?",
+			"what are credits?",
+			"Do all the courses carry same credits?",
+			"How are the credits for theory and lab courses divided?"
+		],
+		"responses": [
+			"IC Course 54Basket of IC course 9HSS Core 13Discipline Core 33Discipline Elective 12Free Elective 22MTP+ISTP or equivalent course 12HSS Elective 05Total160"
+		]
+	},{
+		"tag": "elective courses",
+		"patterns": [
+			"what are the institute elective courses in IIT Mandi?",
+			"what are the institute core courses in IIT Mandi?",
+			"Does the institute offer elective courses to all?"
+		],
+		"responses": [
+			"IC Course 54Basket of IC course 9HSS Core 13Discipline Core 33Discipline Elective 12Free Elective 22MTP+ISTP or equivalent course 12HSS Elective 05Total160"
+		]
+	},{
+		"tag": "alumni",
+		"patterns": [
+			"where are the alumnis placed?",
+			"who are some notable alumni",
+			"How is the alumni network of the institute?",
+			"In which fields are the alumnis placed?"
+		],
+		"responses": [
+			"IIT Mandi has it's graduates spread across the globe . For detailed information ,here is the link provided for the alumnis vhttps://alumniconnect.iitmandi.ac.in/home.dzhttps://alumniconnect.iitmandi.ac.in/home.dz"
+		]
+	},{
+		"tag": "internet",
+		"patterns": [
+			"How is internet facility at IIT MANDI? ",
+			" What is average speed and do we get unlimited internet?",
+			"is there any restriction on data usage limit",
+			"are there any lan cable and wifi"
+		],
+		"responses": [
+			"wifi in rooms, lan ports in labs and study rooms. good enough speed to stream videos at 1080p"
+		]
+	},{
+		"tag": "internship",
+		"patterns": [
+			"How are the internships at IIT MANDI?",
+			"Which companies visit for on-campus internships?",
+			"can we do internship off campus",
+			"what about research intern"
+		],
+		"responses": [
+			"Some of the companies that visit IIT Mandi for interns include companies such as Codenation, DE Shaw, Microsoft etc. You will know the complete list when you sit for internship season but be relieved you will get your shot at almost all the major companies. To see where many aluminis are currently working you can see here\n https://pc.iitmandi.co.in/hof/"
+		]
+	},{
+		"tag": "curriculum",
+		"patterns": [
+			"What is the curriculum of Ist semester in IIT Mandi?",
+			"syllabus of 1st semester"
+		],
+		"responses": [
+			"https://www.iitmandi.ac.in/academics/courses.php"
+		]
+	},{
+		"tag": "UPSC",
+		"patterns": [
+			"How is UPSC culture at IIT MANDI?",
+			"can i prepare for upsc along with my studies?",
+			"Any coaching available in mandi for prepration for civil service?"
+		],
+		"responses": [
+			"If you are talking about if there are nearby coaching centres or special classes for this, then there isn't afaik.\n But you can easily prepare for it alongside studies if that's your aim, since a lot of online sources are available.\n Our alumni's performance is commendable in upsc, with Athar Amir Khan sir who scored AIR 2 in 2016 and recently someone got AIR < 200. So no need to worry."
+		]
+	},{
+		"tag": "bathroom",
+		"patterns": [
+			"Is hot water available in hostels , is it even possible for someone to bath when it is 3° C outside",
+			"is hot water available during whole day?",
+			"Does hot water comes in bathrooms?",
+			"How many bathrooms are there?"
+		],
+		"responses": [
+			"Hot water is available but no one ever thinks of such possibilities."
+		]
+	},{
+		"tag": "freeze",
+		"patterns": [
+			"After freezing my seat, what I need to do? And when?",
+			"What is the procdure after accepting my seat?",
+			"I am alloted seat in iit mandi what i have to do now?",
+			"What is procedure of document verification and fee payment?"
+		],
+		"responses": [
+			"After you've got your documents verified through JOSAA, you'll have to wait till the last round of counselling. You'll get a mail from the college after 9th which will inform you about the admission process."
+		]
+	},{
+		"tag": "laptop",
+		"patterns": [
+			"Which laptop should I buy ?",
+			"Do i need my personal laptop?",
+			"When can i use computer labs?",
+			"Do i need to have a personal laptop?",
+			"Can i use computers in lab for personal purpose?"
+		],
+		"responses": [
+			"Go through this document made by our seniors \n http://tiny.cc/kqqkaz"
+		]
+	},{
+		"tag": "multitask",
+		"patterns": [
+			"Can we join two clubs at the same time, like robotronics and STAC?",
+			"How many clubs can i join at same time?",
+			"How many clubs one should join?",
+			"How can i manage cubs along with my studies?",
+			"How to decide which club i have to join?"
+		],
+		"responses": [
+			"You can join any number of clubs. In first year most of the people join various clubs and try to different things/explore the clubs and then decide continuation of which clubs should be done from second year onwards, since the workload increases after first year."
+		]
+	},{
+		"tag": "allotment",
+		"patterns": [
+			"Where to get the allotment letter from? ",
+			"Is seat allotment letter different from provisional seat allotment letter?",
+			"I have provisional allotment letter"
+		],
+		"responses": [
+			"Seat allotment letter Is present in Jossa"
+		]
+	}
+]}
